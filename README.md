@@ -1,5 +1,5 @@
-**Blog**
-<p>This is my new blog. I will put my thoughts here.</p>
+<h1>Sparksammy's Blog</h1>
+<h3>I will put my thoughts here.</h3>
 <hr>
 ***8/15/17: New servers...***
 There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
