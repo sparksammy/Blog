@@ -1,6 +1,6 @@
 **Blog**
 <p>This is my new blog. I will put my thoughts here.</p>
----
+<hr>
 ***8/15/17: New servers...***
 There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
 server1.sparksammy.tk
