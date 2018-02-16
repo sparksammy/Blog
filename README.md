@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+**Blog**
+This is my new blog. I will put my thoughts here.
+---
+***8/15/17: New servers...***
+There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
+server1.sparksammy.tk
+Update: Server2 Deprecated, as not needed in final build.
 
-You can use the [editor on GitHub](https://github.com/sparksammy/Sparksammy.com-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***8/26/17: Hurricanes, Servers, and Features***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+New features list:
+  - In case of predicted emergency, server will be unpluged.
+  - Optimized for mobile!
+  - Team Fortress 2 Server on server1.sparksammy.tk UPDATE 8/30/17: Removed due to possible bandwith constraints due to Harvey.
+  - ROFLCRAFT is now on server1.sparksammy.tk
+  - Updated Security
+    - NEW! HTTPS (Note: Breaks github site firefox.)
+  - An easter egg in this post
 
-### Markdown
+Planned features:
+  - LegitBOX - Handy Binds for Legit TF2 (Legit LMAOBOX)
+  - WhaleTail - A (hopefully) GNU/GPL licensed Carnival Hub Private Server.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+***8/28/17: Server is down... :(***
 
-- Bulleted
-- List
+Server is down due to evacuation away from flooded areas. Server should be back up next Monday if we don't have to move. (might have to, however.
 
-1. Numbered
-2. List
+***8/30/17: Plans to prevent future shutdowns...***
+I am currently sorting out plans to prevent future server shutdowns, to save bandwidth, and in case I have to get Verizon/Sattelite/Other (similarly priced) internet in the near future. These plans include, but are not limited to:
+  - Merging Sparksammy Experimental into Sparksammy.tk (EDIT: now called test site)
+  - Using a host for ROFLcraft Minecraft Server (Done, come visit. Will be added too homepage soon.)
+  - Making a store to sell my photography and MIDIs. (done. on homepage.)
+  - Making sure everything is backed up to the "SparksammyArchive".
 
-**Bold** and _Italic_ and `Code` text
+***New site plan/Halloween update.***
 
-[Link](url) and ![Image](src)
-```
+There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. However, with bad news comes good news. I have a new store. Also added some "secret links" for you guys to crack open. Enjoy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparksammy/Sparksammy.com-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***2/15/18: New site design***
+I am currently sorting out plans to make a new, more simple website design.
