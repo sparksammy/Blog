@@ -1,12 +1,6 @@
-<div align=left>
 <h1>Sparksammy's Blog</h1>
-</div>
-
-<div align=right>
 <h3>I will put my thoughts here.</h3>
-</div>
-<hr>
-<div align=center>
+******
 ***8/15/17: New servers...***
 There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
 server1.sparksammy.tk
@@ -47,9 +41,3 @@ There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. H
 
 ***2/15/18: New site design***
 I am currently sorting out plans to make a new, more simple website design.
-
-
-
-
-
-</div>
