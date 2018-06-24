@@ -12,3 +12,6 @@ https://github.com/sparksammy/i3-installer
 ROBLOX Scripts:
 
 https://github.com/sparksammy/ROBLOX
+
+**6/24/18: I saw this at Lowe's. I was shocked.**
+![Image of Lowe's Chungus chips sign](chungus chips.png)
