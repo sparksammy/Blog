@@ -43,3 +43,12 @@ STEPS:
 KNOWN BUGS:
 * ROBLOX studio homepage/login is just a white page.
 * Things sometimes go black. You can, however, click it in order for it to change back.
+
+**4/30/19: Blog moved**
+Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
+
+---
+
+Copyright Samuel Lord - All rights reserved.
+
+Copying and redistribution of this entire page or parts of said page are permitted provided this notice is preserved.
