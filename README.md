@@ -45,7 +45,7 @@ KNOWN BUGS:
 * Things sometimes go black. You can, however, click it in order for it to change back.
 
 **4/30/19: Blog moved Update: back to old design due to technical diffrences**
-Blog moved <a href="https://sparksammy.com/Blog/">here.</a><br>
+Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
 
 **8/14/19: ROBLOX PLAYER ON LINUX!!! THE GUIDE**
 
