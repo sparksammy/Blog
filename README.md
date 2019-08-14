@@ -44,8 +44,21 @@ KNOWN BUGS:
 * ROBLOX studio homepage/login is just a white page.
 * Things sometimes go black. You can, however, click it in order for it to change back.
 
-**4/30/19: Blog moved**
-Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
+**4/30/19: Blog moved Update: back to old design due to technical diffrences**
+Blog moved <a href="https://sparksammy.com/Blog/">here.</a><br>
+
+**8/14/19: ROBLOX PLAYER ON LINUX!!! THE GUIDE**
+
+* Set up GenyMotion and choose the Google Pixel 3 on Android 9
+* Install Android Oreo ARM Package shown here: https://pentester.land/tips-n-tricks/2018/10/19/installing-arm-android-apps-on-genymotion-devices.html (Drag and drop)
+* Reboot VIRTUAL DEVICE
+* Install GAPPS (Click the button to the right, near the top of the window, marked OpenGApps)
+* Reboot VIRTUAL DEVICE
+* Download the latest ROBLOX apk here: https://apps.evozi.com/apk-downloader/
+* Install (Drag and drop)
+* Once you have done all those steps, it should work!
+  * Disclaimer: You might have to do a ton of captchas!
+
 
 ---
 
