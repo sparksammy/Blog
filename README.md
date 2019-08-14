@@ -24,6 +24,8 @@ It's been 1 year without posts. What's going on? The answer to that is: I am try
 **4/20/19: HOW TO INSTALL ROBLOX STUDIO ON GNU/LINUX**
 By Sparksammy.
 
+*Update: Just use the amazing <i><a href="https://gitlab.com/brinkervii/grapejuice">Grapejuice</a></i> project*
+
 NEEDS:
 * A Windows PC with ROBLOX Studio installed
 * A USB/Other meathod of data transfer between PC and your GNU/Linux box
