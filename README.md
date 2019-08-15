@@ -61,10 +61,10 @@ Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
 * Install GAPPS (Click the button to the right, near the top of the window, marked OpenGApps)
 * Reboot VIRTUAL DEVICE
 * Download the latest ROBLOX apk <a href="https://apps.evozi.com/apk-downloader/">here</a>
- * Hint: type "com.roblox.client" without quotes.
+    * Hint: type "com.roblox.client" without quotes.
 * Install (Drag and drop)
 * Once you have done all those steps, it should work!
- * Disclaimer: You might have to do a ton of captchas!
+    * Disclaimer: You might have to do a ton of captchas!
 
 
 ---
