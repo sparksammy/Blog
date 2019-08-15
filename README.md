@@ -68,6 +68,6 @@ Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
 
 ---
 
-Copyright Samuel Lord - All rights reserved.
+Copyright <script>var year = new Date().getFullYear(); document.write(year);</script> Samuel Lord - All rights reserved.
 
 Copying and redistribution of this entire page or parts of said page are permitted provided this notice is preserved.
