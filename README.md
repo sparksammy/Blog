@@ -50,6 +50,10 @@ KNOWN BUGS:
 Blog moved <a href="https://sparksammy.com/blog/">here.</a><br>
 
 **8/14/19: ROBLOX PLAYER ON LINUX!!! THE GUIDE**
+<hr>
+**WARNING:** THIS REQUIRES A BEEFY COMPUTER!
+**ALSO:** GENYMOTION IS FOR PERSONAL USE ONLY. DO NOT USE IT FOR BUSINESS. 
+<hr>
 * Download GenyMotion from <a href="https://www.genymotion.com/fun-zone/">here</a>
 * Set up GenyMotion and choose the Google Pixel 3 on Android 9
 * Install Android Oreo ARM Package shown <a href="https://pentester.land/tips-n-tricks/2018/10/19/installing-arm-android-apps-on-genymotion-devices.html">here</a>  (Drag and drop)
